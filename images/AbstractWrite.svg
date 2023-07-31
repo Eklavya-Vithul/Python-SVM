@@ -1,0 +1,49 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640.5 480.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00236a;
+      }
+
+      .cls-2 {
+        fill: #0071bc;
+      }
+
+      .cls-3 {
+        fill: #29abe2;
+      }
+
+      .cls-4 {
+        font-size: 39px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.00699em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.00401em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.00598em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.013em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-1" d="M.2566,136.534V.23622H96.51787C32.34369,1.8042.2566,136.534.2566,136.534Z"/>
+    <path class="cls-2" d="M.2566,174.45573V136.534S32.34369,1.8042,96.51787.23622H245.764C29.67433.23622.2566,174.45573.2566,174.45573Z"/>
+    <path class="cls-3" d="M.2566,194.60712V174.45573S29.67433.23622,245.764.23622H409.94749C95.76825,2.61722.2566,194.60712.2566,194.60712Z"/>
+  </g>
+  <text class="cls-4" transform="translate(204.75226 237.89481)"><tspan class="cls-5">C</tspan><tspan class="cls-6" x="22.34717" y="0">a</tspan><tspan class="cls-7" x="40.98877" y="0">t</tspan><tspan x="53.66455" y="0">c</tspan><tspan class="cls-8" x="71.13623" y="0">h</tspan><tspan x="92.27393" y="0">y Slogan</tspan></text>
+  <g>
+    <path class="cls-1" d="M640.2533,343.9557V480.25343H543.992C608.16621,478.68545,640.2533,343.9557,640.2533,343.9557Z"/>
+    <path class="cls-2" d="M640.2533,306.03392V343.9557S608.16621,478.68545,543.992,480.25343H394.72764C610.81728,480.25343,640.2533,306.03392,640.2533,306.03392Z"/>
+    <path class="cls-3" d="M640.2533,285.88253v20.15139s-29.436,174.21951-245.52566,174.21951H230.56241C544.72336,477.87243,640.2533,285.88253,640.2533,285.88253Z"/>
+  </g>
+</svg>

@@ -1,0 +1,3 @@
+light blue: #29ABE2
+mid blue: #0071BC
+dark blue: #00236A
