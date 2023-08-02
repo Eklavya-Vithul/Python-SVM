@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <title>
-        MC Home
+        Meaningful Conversations
     </title>
 
     <body class="">
